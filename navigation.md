@@ -14,4 +14,4 @@
 [스터디후기](doc/afterSchool.md)
 
 [gimmick:theme (inverse: false)](cerulean)
-[gimmick:ForkMeOnGitHub](https://biospin.github.com/neuropy)
+[gimmick:ForkMeOnGitHub](https://github.com/biospin/neuropy/tree/gh-pages)
