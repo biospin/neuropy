@@ -4,7 +4,7 @@
 ## 일정
 |회차	    |날짜	   |주제	                                                    |발표자	|
 |:---	    |:---	   |:---	                                                    |:---	|
-|Part I1-1    |3/3/2015  |[Chapter 2 NumPy and SciPy](d01.md) |[김C](https://www.facebook.com)  |
+|Part I1-1    |3/3/2015  |[Chapter 1 Neural modeling](d01.md) |[김C](https://www.facebook.com)  |
 |              |            |aa  |[김C](https://www.facebook.com)  |
 |              |            |bb  |[김C](https://www.facebook.com)  |
 
