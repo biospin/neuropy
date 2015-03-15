@@ -3,13 +3,13 @@
 |회차	    |날짜	   |주제	                                                    |발표자	|
 |:---	    |:---	   |:---	                                                    |:---	|
 |Part I-1    |3/3/2015  |[Chapter 1 Neural modeling](doc/part1/study01/d01.md) |[조강익](https://www.facebook.com/kangik)  |
-|Part I-2    |3/10/2015 | 보강 A - 파이썬 기초  | 최창순 |
-|            |          | 연습문제 2-1  | 유광현 |
-|            |          | 연습문제 2-2  | 강양제 |
-|Part I-3    |3/17/2015 | Applications of Computational Neuroscience - 이론  | 박성진 |
-|            |          | Modeling Single Cells in NEURON with the Python interpreter | 박성진 |
-|            |          | 연습문제 3-1                                               | 김건우 |
-|            |          | 연습문제 3-2                                               | 박혜웅 |
+|Part I-2    |3/10/2015 | [보강 A - 파이썬 기초](doc/part1/study02/d02.md)  | 최창순 |
+|            |          | [연습문제 2-1](doc/part1/study02/d02.md)  | 유광현 |
+|            |          | [연습문제 2-2](doc/part1/study02/d02.md)  | 강양제 |
+|Part I-3    |3/17/2015 | [Applications of Computational Neuroscience - 이론](doc/part1/study03/d03.md)  | 박성진 |
+|            |          | [Modeling Single Cells in NEURON with the Python interpreter](doc/part1/study03/d03.md) | 박성진 |
+|            |          | [연습문제 3-1](doc/part1/study03/d03.md)                                               | 김건우 |
+|            |          | [연습문제 3-2](doc/part1/study03/d03.md)                                               | 박혜웅 |
 |Part I-4    |3/24/2015 | Neural Response - 이론  | 이성호 |
 |            |          | Coding spike finder | 이성호 |
 |            |          | 연습문제 4-1                                               | 이인구 |
