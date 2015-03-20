@@ -9,10 +9,6 @@
   * [02 (보강)Python 기초 / 연습문제2](doc/part1/study02/d02.md)
   * [03 Computational Neuroscience / 연습문제3](doc/part1/study03/d03.md)
 
-[part2]()
-
-  * ## neuro2
-
 [스터디후기](doc/afterSchool.md)
 
 [gimmick:theme (inverse: false)](cerulean)
