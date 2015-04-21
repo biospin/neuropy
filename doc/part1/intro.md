@@ -14,7 +14,7 @@
 |            |          | [연습문제 4-1](study04/d04.md)                                               | 이인구 |
 |Part I-5    |3/31/2015 | [Motor Control(Movement control) - 이론](study05/d05.md)   | 윤영우   |
 |            |          | [Creating tuning curves](study05/d05.md)  | 윤광호 |
-|Part I-6    |4/7/2015  | [Sensory system (Vision)](study06/d06.md) - 이론   | 김덕태   |
+|Part I-6    |4/7/2015  | [Sensory system : Vision](study06/d06.md) - 이론   | 김덕태   |
 |            |          | [Exploring behavior and neural activity](study06/d06.md)   | 홍길한   |
 |            |          | [연습문제 5-1](study06/d06.md)   | 장형석   |
 |Part I-7    |4/14/2015 | [Brain States-Wakefulness and sleep (EEG based) - 이론](study07/d07.md)   | 권나연   |
