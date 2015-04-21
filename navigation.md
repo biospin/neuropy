@@ -14,6 +14,12 @@
 
 [part2]()
 
+  * ## neuro2
+  * [일정](doc/part2/intro.md)
+  ----------
+  * [01 Introduction of Cognitive Neuroscience & PsychoPy tutorial & fMRI_Intro ](doc/part2/study01/d01.md)
+
+
 [스터디후기](doc/afterSchool.md)
 
 [gimmick:theme (inverse: false)](cerulean)
