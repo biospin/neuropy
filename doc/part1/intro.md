@@ -8,19 +8,15 @@
 |            |          | [연습문제 2-2](study02/d02.md)  | 강양제 |
 |Part I-3    |3/17/2015 | [Applications of Computational Neuroscience - 이론](study03/d03.md)  | 박성진 |
 |            |          | [Modeling Single Cells in NEURON with the Python interpreter](study03/d03.md) | 박성진 |
-|            |          | [연습문제 3-1](study03/d03.md)                                               | 김건우 |
-|            |          | [연습문제 3-2](study03/d03.md)                                               | 박혜웅 |
-|Part I-4    |3/24/2015 | Neural Response - 이론  | 이성호 |
-|            |          | Coding spike finder | 이성호 |
-|            |          | 연습문제 4-1                                               | 이인구 |
-|            |          | 연습문제 4-2                                               | 윤영우 |
-|Part I-5    |3/31/2015 | Motor Control(Movement control) - 이론   |    |
-|            |          | Creating tuning curves  | 윤광호 |
-|            |          | 연습문제 6-1                                               |  |
-|            |          | 연습문제 6-2                                               |  |
-|Part I-6    |4/7/2015 | Sensory system (Vision) - 이론   |    |
-|Part I-7    |4/14/2015 | 보강 B - 네트워크 분석   |  노규형  |
-|Part I-8    |4/21/2015 | Brain States-Wakefulness and sleep (EEG based) - 이론   |    |
-|Part I-9    |4/28/2015 | Introduction of Cognitive Neuroscience - 이론  |    |
-|Part I-10    |5/12/2015 | 보강 C - Probabilistic Graphical Models  |    |
+|            |          | [연습문제 3-2](study03/d03.md) | 박혜웅 |
+|Part I-4    |3/24/2015 | [Neural Response - 이론](study04/d04.md)  | 이성호 |
+|            |          | [Coding spike finder](study04/d04.md) | 이성호 |
+|            |          | [연습문제 4-1](study04/d04.md)                                               | 이인구 |
+|Part I-5    |3/31/2015 | [Motor Control(Movement control) - 이론](study05/d05.md)   | 윤영우   |
+|            |          | [Creating tuning curves](study05/d05.md)  | 윤광호 |
+|Part I-6    |4/7/2015  | [Sensory system (Vision)](study06/d06.md) - 이론   | 김덕태   |
+|            |          | [Exploring behavior and neural activity](study06/d06.md)   | 홍길한   |
+|            |          | [연습문제 5-1](study06/d06.md)   | 장형석   |
+|Part I-7    |4/14/2015 | [Brain States-Wakefulness and sleep (EEG based) - 이론](study07/d07.md)   | 권나연   |
+|            |          | [실습](study07/d07.md)                                | 김무성   |
 
