@@ -6,10 +6,7 @@
 - 장소 : 토즈 타워점
 
 ### 최신글
-- [Week6-Sensory system & exploring behavior and neural activity](doc/part1/study06/d06.md)
-- [Week5-Motor Control(Movement control) - 이론](doc/part1/study05/d05.md)
-- [Week4-Neural Response & Coding spike finder](doc/part1/study04/d04.md)
-- [Week3-Neuro Science Application and Single Cell Modeling - 150317](doc/part1/study03/d03.md)
+- [Week1-Introduction of Cognitive Neuroscience & PsychoPy tutorial & fMRI_Intro ](doc/part2/study01/d01.md)
 - [후기 - 150318](doc/afterSchool.md)
 
 ### 링크
