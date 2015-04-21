@@ -3,7 +3,7 @@
 |회차	    |날짜	   |주제	                                                    |발표자	|
 |:---	    |:---	   |:---	                                                    |:---	|
 |Part II-1  |4/21/2015 |[보조교재 : 1 - 서론](study01/d01.md) | 김무성  |
-|           |          |[Introduction of Cognitive Neuroscience - 이론](study01/d01.md) | 이기은, 이무  |
+|           |          |[Introduction of Cognitive Neuroscience - 이론](study01/d01.md) | 이기은, 이무아  |
 |           |          |[PsychoPy tutorial - 특강](study01/d01.md) | 김무성 |
 |           |          |[파이썬 연습문제 - (문자열) 연습문제 9, 10 ](study01/d01.md) |  |
 |Part II-2  |4/28/2015 | 보조교재 : 2 - 영상 처리의 기초  |  |
