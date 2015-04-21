@@ -12,6 +12,8 @@
   * [05 Motor Control(Movement control)](doc/part1/study05/d05.md)
   * [06 Sensory system & exploring behavior and neural activity](doc/part1/study06/d06.md)
 
+[part2]()
+
 [스터디후기](doc/afterSchool.md)
 
 [gimmick:theme (inverse: false)](cerulean)
