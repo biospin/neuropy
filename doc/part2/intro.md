@@ -11,9 +11,9 @@
 |           |          |[Introduction of Cognitive Neuroscience - 이론](study01/d01.md) | 이기은, 이무아  |
 |           |          |[PsychoPy tutorial - 특강](study01/d01.md) | 김무성 |
 |           |          |[파이썬 연습문제 - (문자열) 연습문제 9, 10 ](study01/d01.md) |  |
-|Part II-2  |4/28/2015 |[보조교재 : 2 - 영상 처리의 기초](study01/d02.md)  | 박성진 |
-|           |          |[Neuroimaging introduction (structural MRI) + 실습](study01/d02.md)  | 조강익 |
-|           |          |[파이썬 연습문제 - (문자열, 웹에서 페이지 가져오기) 연습문제 16번](study01/d02.md)  |  |
+|Part II-2  |4/28/2015 |[보조교재 : 2 - 영상 처리의 기초](study02/d02.md)  | 박성진 |
+|           |          |[Neuroimaging introduction (structural MRI) + 실습](study02/d02.md)  | 조강익 |
+|           |          |[파이썬 연습문제 - (문자열, 웹에서 페이지 가져오기) 연습문제 16번](study02/d02.md)  |  |
 |Part II-3  |5/12/2015 | 보조교재 : 3 - fMRI 데이터의 전처리  |  |
 |           |          | 이론 - Introduction of NeuroImaging(fMRI) | 경성현 |
 |           |          | 특강 : 기질과 뇌네트워크             | 경성현 |
