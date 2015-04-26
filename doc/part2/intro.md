@@ -1,3 +1,8 @@
+## 교재
+ * 주교재 : 발표자가 자체적으로 작성
+ * 보조교재 : [fMRI 데이터 분석의 이해 기능적 자기공명영상](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788999705816)
+ * [파이썬 기초 교재](https://wikidocs.net/book/1)
+ * [파이썬 기초 연습문제](http://nbviewer.ipython.org/github/biospin/neuropy/blob/gh-pages/doc/part2/python_prob/python_basic_exercise.ipynb)
 
 ## 일정
 |회차	    |날짜	   |주제	                                                    |발표자	|
