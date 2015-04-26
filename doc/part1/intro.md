@@ -1,3 +1,5 @@
+## 교재
+ * 참고 : [Exploring Neural Data](https://www.coursera.org/course/neuraldata)
 
 ## 일정
 |회차	    |날짜	   |주제	                                                    |발표자	|
