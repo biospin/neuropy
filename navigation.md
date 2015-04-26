@@ -11,6 +11,7 @@
   * [04 Neural Response & Coding spike finder](doc/part1/study04/d04.md)
   * [05 Motor Control(Movement control)](doc/part1/study05/d05.md)
   * [06 Sensory system & exploring behavior and neural activity](doc/part1/study06/d06.md)
+  * [07 Brain States-Wakefulness and sleep (EEG based)](doc/part1/study06/d06.md)
 
 [part2]()
 
