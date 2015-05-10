@@ -1,4 +1,4 @@
-![뒷풀이](/neuropy/doc/img/a150421.jpg)
+![뒷풀이](/neuropy/doc/img/a150428.jpg)
 
 ## PART II - 2회차
 

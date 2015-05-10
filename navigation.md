@@ -19,8 +19,8 @@
   * [일정](doc/part2/intro.md)
   ----------
   * [01 Introduction of Cognitive Neuroscience & PsychoPy tutorial & fMRI_Intro ](doc/part2/study01/d01.md)
-  * [02 Neuroimaging introduction : structural MRI + 실습 & fMRI_영상처리기초](doc/part2/study02/d02.md)
-  * [03 Introduction of NeuroImaging (fMRI) & 기질과 뇌네트워크 & fMRI_데이터의_전처리](doc/part2/study03/d03.md)
+  * [02 Neuroimaging introduction : structural MRI + 실습 & fMRI : 영상처리 기초](doc/part2/study02/d02.md)
+  * [03 Introduction of NeuroImaging (fMRI) & 기질과 뇌네트워크 & fMRI : 데이터의 전처리](doc/part2/study03/d03.md)
 
 
 [스터디후기](doc/afterSchool.md)
