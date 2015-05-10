@@ -14,9 +14,9 @@
 |Part II-2  |4/28/2015 |[보조교재 : 2 - 영상 처리의 기초](study02/d02.md)  | 박성진 |
 |           |          |[Neuroimaging introduction (structural MRI) + 실습](study02/d02.md)  | 조강익 |
 |           |          |[파이썬 연습문제 - (문자열, 웹에서 페이지 가져오기) 연습문제 16번](study02/d02.md)  |  |
-|Part II-3  |5/12/2015 | 보조교재 : 3 - fMRI 데이터의 전처리  |  |
-|           |          | 이론 - Introduction of NeuroImaging(fMRI) | 경성현 |
-|           |          | 특강 : 기질과 뇌네트워크             | 경성현 |
+|Part II-3  |5/12/2015 |[보조교재 : 3 - fMRI 데이터의 전처리](study03/d03.md)  | 최하나 |
+|           |          |[이론 - Introduction of NeuroImaging(fMRI)](study03/d03.md) | 경성현 |
+|           |          |[특강 : 기질과 뇌네트워크](study03/d03.md)             | 경성현 |
 |           |          |  파이썬 연습문제 - (리스트 이용해서 문자열 다루기) 연습문제 3 | 김영주 |
 |           |          |  파이썬 연습문제 - (리스트 정렬) 연습문제 5 | 김영주 |
 |Part II-4  |5/19/2015 | 보조교재 : 4 - 공간적 표준화   | 이세현 |
