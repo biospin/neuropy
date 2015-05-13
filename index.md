@@ -1,4 +1,4 @@
-![대문](doc/img/d150428.jpg)
+![대문](doc/img/d150512.jpg)
 
 ### 뉴로파이썬 기초 part 2
 - 2015년 4월 21일 - 6월 23일
@@ -6,7 +6,7 @@
 - 장소 : 토즈 타워점
 
 ### 최신글
-- [Week2-Neuroimaging introduction : structural MRI + 실습 & fMRI : 영상처리 기초](doc/part2/study02/d02.md)
+- [Week3-Introduction of Neuroimaging & 기질과 뇌네트워크 & fMRI : 데이터의 전처리](doc/part2/study02/d02.md)
 - [후기 - 150428](doc/afterSchool.md)
 
 ### 링크
