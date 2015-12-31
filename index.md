@@ -1,4 +1,6 @@
 
+![대문](doc/img/a.jpg)
+
 ### 뉴로파이썬 기초
 - 종료. (part 1 ~ 2)
 - 스터디 주관 : 바이오스핀
@@ -12,4 +14,3 @@
 - [github](https://github.com/biospin/neuropy/tree/gh-pages)
 
 
-![대문](doc/img/a.jpg)
