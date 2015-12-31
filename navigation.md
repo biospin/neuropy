@@ -21,7 +21,7 @@
   * [01 Introduction of Cognitive Neuroscience & PsychoPy tutorial & 1. fMRI_Intro ](doc/part2/study01/d01.md)
   * [02 Neuroimaging introduction : structural MRI + 실습 & fMRI : 2. 영상처리 기초](doc/part2/study02/d02.md)
   * [03 Introduction of NeuroImaging (fMRI) & 기질과 뇌네트워크 & fMRI : 3. 데이터의 전처리](doc/part2/study03/d03.md)
-  * [04 실습 - SPM 기초(1) & fMRI : 4. 공간적 표준화](doc/part2/study04/d04.md)
+  * [04 특강 - What have we learned from the affective and psychosis disorder? & 실습 - SPM 기초(1) & fMRI : 4. 공간적 표준화](doc/part2/study04/d04.md)
   * [05 실습 - SPM 기초(2) & fMRI : 5. 통계적 모형화 - 단일 피험자 분석](doc/part2/study05/d05.md)
   * [06 Basic statistics for group analysis(Using SPM) & 실습 - SPM 기초 (3) & fMRI : 6. 통계적 모형화 - 집단 분석](doc/part2/study06/d06.md)
   * [07 Allen brain atlas를 이용한 brain 유전체 분석 & fMRI : 7. 영상에 대한 통계적 추론](doc/part2/study07/d07.md)
