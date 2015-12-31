@@ -17,7 +17,7 @@
 |Part II-3  |5/12/2015 |[보조교재 : 3 - fMRI 데이터의 전처리](study03/d03.md)  | 최하나 |
 |           |          |[이론 - Introduction of NeuroImaging(fMRI)](study03/d03.md) | 경성현 |
 |           |          |[특강 : 기질과 뇌네트워크](study03/d03.md)             | 경성현 |
-|Part II-4  |5/19/2015 |[보조교재 : 4 - 공간적 표준화](study04/d04.md)   | 김리안 |
+|Part II-4  |5/19/2015 |[보조교재 : 4 - 공간적 표준화](study04/d04.md)   | 김지영 |
 |           |          |[실습 - SPM 기초(1)](study04/d04.md) | 윤영우 |
 |Part II-5  |5/26/2015 |[보조교재 : 5 - 통계적 모형화 : 단일 피험자 분석](study05/d05.md)    |  김무성  |
 |           |          |[실습 - SPM 기초(2)](study05/d05.md)  | 윤영우 |
