@@ -1,5 +1,19 @@
 ![뒷풀이](/neuropy/doc/img/a150428.jpg)
 
+## PART II - 9회차
+
+## PART II - 8회차
+
+## PART II - 7회차
+
+## PART II - 6회차
+
+## PART II - 5회차
+
+## PART II - 4회차
+
+## PART II - 3회차
+
 ## PART II - 2회차
 
 ‪‎뉴로파이썬‬ PART2 >> 2회차 스터디 후기
